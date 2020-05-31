@@ -1,4 +1,5 @@
 # PS4 ReLink
+# DEPRECATED: You can connect on PSN with Spoof now.
 
 PS4 ReLink is a homebrew for PSVita that can change the online id for re-use ps4 link in 3.60
 
